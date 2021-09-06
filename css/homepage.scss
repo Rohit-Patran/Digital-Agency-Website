@@ -588,6 +588,7 @@ body{
                     width: 60vw;
                     height: 8vw;
                     border-radius: 1.5vw;
+                    font-size: 5vw;
                     &::placeholder{
                         font-size: 4vw;  
                     }
@@ -596,7 +597,7 @@ body{
                     margin: 0 auto;
                     width: 30vw;
                     font-size: 6vw;
-                    margin-bottom: 15vw;
+                    margin-bottom: 25vw;
                 }
             }
             .credits{
@@ -724,6 +725,7 @@ body{
                     width: 30vw;
                     height: 4vw;
                     border-radius: 1vw;
+                    font-size: 2.5vw;
                     &::placeholder{
                         font-size: 2vw;  
                     }
@@ -731,7 +733,7 @@ body{
                 div{
                     width: 10vw;
                     font-size: 2vw;
-                    margin-bottom: 5vw;
+                    margin-bottom: 10vw;
                 }
             }
             .credits{
