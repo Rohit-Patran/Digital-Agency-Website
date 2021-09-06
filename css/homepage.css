@@ -762,6 +762,7 @@ body footer .credits {
     width: 60vw;
     height: 8vw;
     border-radius: 1.5vw;
+    font-size: 5vw;
   }
   body footer .contact input::-webkit-input-placeholder {
     font-size: 4vw;
@@ -779,7 +780,7 @@ body footer .credits {
     margin: 0 auto;
     width: 30vw;
     font-size: 6vw;
-    margin-bottom: 15vw;
+    margin-bottom: 25vw;
   }
   body footer .credits {
     font-size: 4.5vw;
@@ -898,6 +899,7 @@ body footer .credits {
     width: 30vw;
     height: 4vw;
     border-radius: 1vw;
+    font-size: 2.5vw;
   }
   body footer .contact input::-webkit-input-placeholder {
     font-size: 2vw;
@@ -914,7 +916,7 @@ body footer .credits {
   body footer .contact div {
     width: 10vw;
     font-size: 2vw;
-    margin-bottom: 5vw;
+    margin-bottom: 10vw;
   }
   body footer .credits {
     font-size: 2vw;
