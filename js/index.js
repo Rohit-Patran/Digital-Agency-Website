@@ -3,7 +3,7 @@ var links=document.getElementsByClassName("links")[0]
 function openMenu()
 {
     
-    if(menuclass.style.backgroundColor=="white")
+    if(links.style.display=="none" && menuclass.style.backgroundColor=="white")
     {
         
         links.style.display="flex"
